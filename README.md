@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @holykauron
-- 👀 I’m interested in programming, game development and graphic design
-- 🌱 I’m currently learning HTML, CSS
-- 💞️ I’m looking to collaborate on creative endeavors
-- 📫 Reach me @ kauronr@gmail.com
+<h1>Hi, im Kauron! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-<!---
-holykauron/holykauron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - 
+<h2> Certifications:</h2>
+- <b>BCR Cyber Workforce Certificate</b>
+
