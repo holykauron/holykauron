@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab (AlgoExpert)</b>
-  - [Creating Server Domain, Groups and Users]((https://github.com/holykauron/ActiveDirectoryLab/tree/main))
+  - [Creating Server Domain, Groups and Users](https://github.com/holykauron/ActiveDirectoryLab/tree/main)
 
     
 <h2> Certifications:</h2>
